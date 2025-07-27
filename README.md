@@ -15,6 +15,10 @@ Shipping Mode Analysis
 
 Geographical Analysis: Sales distribution across different regions and states.
 
+Sales Trends: Visualization of sales performance over time (e.g., yearly sales trends) to identify patterns and growth.
+
+Product Performance: Analysis of sales by product categories and sub-categories to identify best-selling and underperforming products.
+
 ## Tools Used
 Python: The core programming language used for the analysis.
 
