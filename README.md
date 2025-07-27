@@ -17,7 +17,7 @@ Product Performance: Analysis of sales by product categories and sub-categories 
 
 Geographical Analysis: Sales distribution across different regions and states.
 
-Technologies Used
+## Tools Used
 Python: The core programming language used for the analysis.
 
 Pandas: A powerful library for data manipulation and analysis.
