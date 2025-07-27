@@ -7,6 +7,13 @@ Data Cleaning: Identification and handling of missing values (e.g., in 'Postal C
 
 Customer Segmentation: Analysis of sales distribution across different customer segments (Consumer, Corporate, Home Office) to identify the most profitable groups.
 
+Customer Loyalty: Identification of repeat customers and analysis of their purchasing behavior.
+
+Top Customer Analysis: Pinpointing high-value customers based on their total sales contribution.
+
+Shipping Mode Analysis
+
+Geographical Analysis: Sales distribution across different regions and states.
 
 ## Tools Used
 Python: The core programming language used for the analysis.
